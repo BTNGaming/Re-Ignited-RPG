@@ -1,0 +1,12 @@
+{
+    "author" : ["BTNGaming", "locastan", "aikaterna", "TrustyJAID", "Draper"],
+    "install_msg" : "Thank you for trying out the Re-Ignited RPG.",
+    "name" : "Adventure",
+    "short" : "A remaster of an old RPG game..",
+    "description" : "Play a RPG character and get loot by killing monsters.",
+    "min_python_version": [3, 6, 0],
+	"tags": [
+		"rpg",
+		"adventure"
+	]
+}
