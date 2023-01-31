@@ -62,8 +62,8 @@ default_guild = {
     "max_allowed_withdraw": 50000,
 }
 default_global = {
-    "god_name": "Herbert",
-    "cart_name": "Hawl's brother",
+    "god_name": "Shinobi",
+    "cart_name": "Edric's brother",
     "theme": "default",
     "restrict": False,
     "embed": True,
