@@ -1,4 +1,4 @@
-# Adventure
+# Re-Ignited RPG
 
 ## Basic Usage
 
